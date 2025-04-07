@@ -49,7 +49,7 @@ br{
 
 #slogan{
 	color: var(--txtcoloralt);
-	font-family: 'Montserrat', monospace;
+	font-family: 'Open Sans';
 	font-size: 2em;
 }
 #slogan span{
@@ -762,5 +762,8 @@ br{
 	#footer{
 		background-position-x: 50vw;
 		background-position-y: 256px;
+	}
+	#slogan{
+		text-align: center;
 	}
 }
