@@ -702,7 +702,7 @@ br{
 		font-size: 1.5em;
 	}
 	.navlist button{
-		font-size: .8em;
+		font-size: .9em;
 	}
 	.info-card{
 		width: 300px;
@@ -765,5 +765,8 @@ br{
 	}
 	#slogan{
 		text-align: center;
+	}
+	.temp-disable-mobile{
+		display: none;
 	}
 }
