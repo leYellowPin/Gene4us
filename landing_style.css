@@ -767,6 +767,8 @@ br{
 		text-align: center;
 	}
 	.temp-disable-mobile{
+		position: absolute;
+		visibility: hidden;
 		display: none;
 	}
 }
